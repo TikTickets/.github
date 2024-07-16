@@ -1,1 +1,1 @@
-No
+Welcome to TikTickets!!
